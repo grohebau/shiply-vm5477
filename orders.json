@@ -1,0 +1,47 @@
+{
+  "S58512": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Alfred-Hess-Straße 24A, 99092 Erfurt, Deutschland",
+    "receiver": "Pavel Herda, Jilovice 128, 373 32 Trhové Sviny, Tschechische Republik",
+    "price": "9.000 €",
+    "description": "Hersteller: BMW<br>Typ: R 1200 GS<br>Fahrgestelnummer: WB10A5103JZ653845<br>Erstzulassung: 23/09/2015<br>KM laut Vorbesitzer: 30.000 km<br>Leistung: 92 kW<br>Hubraum: 1170 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Pavel Herda<br>Jilovice 128<br>373 32 Trhové Sviny<br>Tschechische Republik<br>Telefon: +420 725628626",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "24.11.2025",
+    "deliveryDate": "28.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
